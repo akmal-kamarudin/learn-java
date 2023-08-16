@@ -12,5 +12,11 @@ public class OOP {
 
     myCar1.drive();
     myCar1.brake();
+
+    System.out.println(myCar2.make);
+    System.out.println(myCar2.model);
+
+    myCar2.drive();
+    myCar2.brake();
   }
 }
